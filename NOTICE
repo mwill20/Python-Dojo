@@ -1,0 +1,21 @@
+Python-Dojo - AI Security Training Platform
+Copyright (c) 2025 Michael Williams
+
+This project includes code derived from Python's antigravity module,
+which is licensed under the Python Software Foundation License.
+
+---
+
+This project is based on Python's antigravity module:
+Copyright (c) 2001-2025 Python Software Foundation.
+All Rights Reserved.
+
+Licensed under the Python Software Foundation License (PSF).
+See LICENSE file for full license details.
+
+---
+
+Portions of this software may incorporate or be derived from
+third-party works that are licensed under different terms. Please see
+the source code for more information about included third-party works
+and their respective licenses.
